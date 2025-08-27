@@ -184,7 +184,4 @@ Authored by Parsa Farinneya (and contributors). PRs welcome.
 
 ```
 
----
-
-Do you also want me to generate a **`requirements.txt`** and **`LICENSE` (MIT)** so you can commit the repo cleanly in one shot?
 ```
